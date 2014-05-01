@@ -1,0 +1,43 @@
+a {
+    text-decoration: none;
+    color: #34abeb;
+    font-family: Calibri;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #34abeb;
+}
+
+.red {
+    color: red;
+}
+
+.tabs {
+    display: inline;
+    margin-right: -1px;
+    border: 1px solid #7C7C7C;
+    padding: 5px;
+    color: #F2F2E4;
+}
+
+section {
+    color: #34abeb;
+    font-family: Calibri;
+    margin-left: 40px;
+}
+
+div {
+    color: #34abeb;
+    font-family: Calibri;
+    margin-left: 40px;
+    margin-top: -5px;
+    border: 1px solid #7C7C7C;
+    padding: 5px;
+}
+
+h1 {
+    color: #34abeb;
+    font-family: Calibri;
+    margin-left: 40px;
+}
